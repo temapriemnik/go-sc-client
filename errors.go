@@ -1,6 +1,9 @@
 package sc
 
-import "errors"
+import (
+	"errors"
+	"fmt"
+)
 
 // Common errors
 var (

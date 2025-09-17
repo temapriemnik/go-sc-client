@@ -3,7 +3,6 @@ package sc
 import (
 	"encoding/json"
 	"errors"
-	"fmt"
 	"log"
 	"sync"
 	"time"
